@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AHMAD%20SHAHZAD&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Game%20Dev%20%7C%20Agentic%20AI&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=M&20AHMAD%20SHAHZAD&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Game%20Dev%20%7C%20Agentic%20AI&descAlignY=58&descAlign=50" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=%3E+booting+ahmad.exe...;%3E+loading+flutter_modules...;%3E+compiling+agentic_ai_core...;%3E+status%3A+ready_to_ship+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-mahmadshahzad4641%40gmail.com-0f0c29?style=for-the-badge&logo=Gmail&logoColor=00F5D4)](mailto:ahmadshahzad4641@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ahmadshahzad4641%40gmail.com-0f0c29?style=for-the-badge&logo=Gmail&logoColor=00F5D4)](mailto:ahmadshahzad4641@gmail.com)
 [![GitHub](https://img.shields.io/badge/-ahmad4641-0f0c29?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/ahmad4641)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
