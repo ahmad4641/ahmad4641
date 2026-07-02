@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-ahmadshahzad4641%40gmail.com-0f0c29?style=for-the-badge&logo=Gmail&logoColor=00F5D4)](mailto:ahmadshahzad4641@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mahmadshahzad4641%40gmail.com-0f0c29?style=for-the-badge&logo=Gmail&logoColor=00F5D4)](mailto:ahmadshahzad4641@gmail.com)
 [![GitHub](https://img.shields.io/badge/-ahmad4641-0f0c29?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/ahmad4641)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -15,11 +15,10 @@
 
 <br/>
 
-## `📡 SYSTEM.LOG // about_me`
 
 ```yaml
-> unit_id:        Ahmad
-> location:       Sahiwal, Punjab, Pakistan
+> unit_id:       M Ahmad Shahzad
+> location:      Sahiwal, Punjab, Pakistan
 > university:     Riphah International University — Sahiwal Campus
 > program:        BS Computer Science [2023 — 2027]
 > core_directive: "Ship complete, client-ready products — not demos."
@@ -29,7 +28,6 @@
     - UI/UX Systems Design
     - Agentic AI & Generative AI Pipelines
 ```
-
 I build things that have to actually **work** — offline-first POS systems that never go down, games that feel right on the first tap, and now, AI agents that reason instead of just autocomplete. Currently on a self-directed 30-day sprint through **ML → GenAI → Agentic AI**, gearing up for my Final Year Project.
 
 <br/>
